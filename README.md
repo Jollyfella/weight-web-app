@@ -1,2 +1,2 @@
 # weight-web-app
-Weight Web App
+Web app accessing personal weight information from MyFitnessPal API
